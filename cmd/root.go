@@ -2,7 +2,6 @@ package cmd
 
 import (
 	"fmt"
-	"runtime"
 	"os"
 
 	"github.com/spf13/cobra"

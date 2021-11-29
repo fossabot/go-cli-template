@@ -1,6 +1,7 @@
 package main
 
 import (
+  "runtime"
   "github.com/gabehoban/go-cli-template/cmd"
 )
 
