@@ -1,4 +1,6 @@
 # Go Simple CLI Boilerplate
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgabehoban%2Fgo-cli-template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgabehoban%2Fgo-cli-template?ref=badge_shield)
+
 
 > Simple boilerplate to create CLI applications with Go
 
@@ -39,3 +41,6 @@ This project is intended to be a safe, welcoming space for collaboration.
 ## License
 
 This project is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgabehoban%2Fgo-cli-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgabehoban%2Fgo-cli-template?ref=badge_large)
